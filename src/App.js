@@ -7,6 +7,7 @@ function App() {
       <h1>
      A One Natraj Academy
       </h1>
+      <h2>Best Academy of Dance and Gymnastics</h2>
 
     </div>
   );
